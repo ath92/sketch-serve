@@ -1,0 +1,11 @@
+{
+  "name": "git-serve",
+  "version": "1.0.0",
+  "description": "takes a (public) github repo and serves its static files",
+  "main": "index.js",
+  "author": "tom hutman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
